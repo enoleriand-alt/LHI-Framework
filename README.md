@@ -28,4 +28,4 @@ python3 LHI.py
 
 
 # Version:
-<b><p>2.8</p></b>
+<b><p>Beta</p></b>
