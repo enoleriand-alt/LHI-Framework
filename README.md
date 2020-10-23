@@ -21,7 +21,7 @@ apt install python3-pip
 <h1>Installation:</h1>
 <pre>
 git clone https://github.com/enoleriand-alt/LHI-Framework.git
-cd BlackDir
+cd LHI-Framework
 pip3 install -r requirements.txt
 python3 LHI.py
 </pre>
